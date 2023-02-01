@@ -1,0 +1,11 @@
+input: src
+output: .retype
+url: localhost:8081 # Add your website address here
+branding:
+  title: GestSIS
+  label: Docs
+links:
+  - text: Accès à GestSIS
+    link: https://gestsis.ch
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."

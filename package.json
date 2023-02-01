@@ -1,0 +1,10 @@
+{
+  "name": "GestSIS_Doc",
+  "version": "1.0.0",
+  "description": "Documentation pour GestSIS",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "retypeapp": "^2.4.0"
+  }
+}
