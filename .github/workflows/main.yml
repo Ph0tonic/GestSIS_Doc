@@ -37,4 +37,4 @@ jobs:
           SSH_HOST: ${{ secrets.STAGING_SSH_HOST }}
 
       - name: Deploy build
-        run: scp -r $RETYPE_OUTPUT_PATH staging:doc.gestsis.ch
+        run: rsync -a -essh $RETYPE_OUTPUT_PATH staging:doc.gestsis.ch
