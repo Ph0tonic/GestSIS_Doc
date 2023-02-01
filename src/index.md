@@ -5,7 +5,9 @@ icon: home
 
 # Bienvenue
 
-Bienvenue dans la documentation officielle de GestSIS. Celle-ci est encore encore de rédaction. Pour commencer, cliquer le module qui vous intéresse dans la liste suivante :
+Bienvenue dans la documentation officielle de GestSIS.
+Celle-ci est encore en cours de rédaction.
+Pour commencer, cliquez le module qui vous intéresse dans la liste suivante :
 
 - [Mes infos](modules/mes-infos)
 - [Effectif](modules/effectif)
