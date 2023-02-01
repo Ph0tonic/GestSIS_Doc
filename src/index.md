@@ -11,6 +11,7 @@ Pour commencer, cliquez le module qui vous intéresse dans la liste suivante :
 
 - [Mes infos](modules/mes-infos)
 - [Effectif](modules/effectif)
+- [Sapeur](modules/sapeur)
 - [Exercices et séances](modules/exercice)
 - [Intervention](modules/intervention)
 - [Fiche de travail](modules/fiche-travail)
