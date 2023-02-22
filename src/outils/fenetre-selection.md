@@ -15,3 +15,21 @@ Pour sélectionner des sapeurs et les faire passer dans la liste de gauche, il y
 2. Sélectionner un ou plusieurs sapeurs via leurs case à coché puis cliquer sur [!badge Ajouter ces sapeurs]
 
 Une fois les sapeurs sélectionnés, il ne reste plus qu'à valider la sélection à l'aide du bouton [!badge Enregistrer].
+
+## Options
+
+Il est possible de grouper l'affichage des sapeurs avec les options suivantes :
+
+- Ordre alphabétique (nom prénom)
+- Groupe
+- Localité
+- Fonction
+- Permis de conduire
+- Grade
+- Civilité
+- Année d'incorporation
+- Type (Sapeur / Politique)
+
+De plus, par défault les politiques sont affichés et les sapeurs inactifs masqués.
+Cependant il est également possible de masquer les politique et d'afficher les sapeurs inactifs.
+Ce qui peut-être utile pour la convocation d'anciens sapeurs.
