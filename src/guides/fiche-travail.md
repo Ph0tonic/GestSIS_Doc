@@ -3,8 +3,6 @@ order: 70
 icon: briefcase
 ---
 
-:warning: En cours de rédaction :warning:
-
 L'idée de ce module est de simplifier la saisie des travaux effectué hors exercices et séances planifiées.
 Un exemple sont les travaux de maintenance ou les roulages de véhicules.
 
@@ -17,7 +15,7 @@ Il existe deux permissions différentes pour ajouter des travaux, `saisie person
 
 Les travaux doivent être validé afin de pouvoir être comptabilisé.
 
-![Fenêtre de revue d'un travail](.../images/modal-revue-travail.jpg)
+![Fenêtre de revue d'un travail](../images/modal-revue-travail.jpg)
 
 ## Configuration
 
