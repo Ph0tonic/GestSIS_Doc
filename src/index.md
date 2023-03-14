@@ -5,14 +5,22 @@ icon: home
 
 # Bienvenue
 
-Bienvenue dans la documentation officielle de GestSIS.
-Celle-ci est encore en cours de rédaction.
+Bienvenue dans la documentation officielle de GestSIS. Celle-ci est encore en cours de rédaction.
+
+## Pour commencer
+
+<!-- TODO: Créer un compte -->
+<!-- TODO: S'excuser -->
+<!-- TODO: Télécharger son calendrier -->
+
+## Modules 
+
 Pour commencer, cliquez le module qui vous intéresse dans la liste suivante :
 
 - [Mes infos](modules/mes-infos)
 - [Effectif](modules/effectif)
 - [Sapeur](modules/sapeur)
-- [Exercices et séances](modules/exercice)
+- [Exercices et séances](modules/exercice-seances)
 - [Intervention](modules/intervention)
 - [Fiche de travail](modules/fiche-travail)
 - [Cours](modules/cours)
