@@ -39,8 +39,11 @@ Pour commencer, cliquez sur le module qui vous intéresse dans la liste suivante
 - [Utilisateurs](guides/utilisateurs)
 - [RTA](guides/rta)
 
-<!-- ## GestSIS Mobile
+<!--
+## GestSIS Mobile
 
 GestSIS Mobile est une application mobile permettant la saisie des rapports d'interventions et des présences aux exercices en mode hors ligne.
 
-- [GestSIS Mobile](gestsis-mobile) -->
+- [GestSIS Mobile](gestsis-mobile)
+
+-->
