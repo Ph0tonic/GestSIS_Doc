@@ -9,28 +9,34 @@ Bienvenue dans la documentation officielle de GestSIS. Celle-ci est encore en co
 
 ## Pour commencer
 
-<!-- TODO: Créer un compte -->
-<!-- TODO: S'excuser -->
-<!-- TODO: Télécharger son calendrier -->
+!!! Créer un compte
+C'est par [ICI](https://app.gestsis.ch/#/register) !
+1. Compléter le formulaire en utilisant l'adresse email que vous avez communiqué à votre SIS
+2. Controller votre boîte mail et activer votre compte en cliquer sur le mail que vous avez reçu
+
+Et voilà, c'est tout !
+!!!
+
+[!ref Découvrez vos possibilités](guides/mes-infos)
 
 ## Modules 
 
 Pour commencer, cliquez le module qui vous intéresse dans la liste suivante :
 
-- [Mes infos](modules/mes-infos)
-- [Effectif](modules/effectif)
-- [Sapeur](modules/sapeur)
-- [Exercices et séances](modules/exercice-seances)
-- [Intervention](modules/intervention)
-- [Fiche de travail](modules/fiche-travail)
-- [Cours](modules/cours)
-- [Comptabilité](modules/comptabilite)
-- [Publipostage](modules/publipostage)
-- [Statistiques](modules/statistique)
-- [Matériel personnel](modules/materiel-personnel)
-- [Contrôles médicaux](modules/controles-medicaux)
-- [Utilisateurs](modules/utilisateurs)
-- [RTA](modules/rta)
+- [Mes infos](guides/mes-infos)
+- [Effectif](guides/effectif)
+- [Sapeur](guides/sapeur)
+- [Exercices et séances](guides/exercice-seances)
+- [Intervention](guides/intervention)
+- [Fiche de travail](guides/fiche-travail)
+- [Cours](guides/cours)
+- [Comptabilité](guides/comptabilite)
+- [Publipostage](guides/publipostage)
+- [Statistiques](guides/statistique)
+- [Matériel personnel](guides/materiel-personnel)
+- [Contrôles médicaux](guides/controles-medicaux)
+- [Utilisateurs](guides/utilisateurs)
+- [RTA](guides/rta)
 
 <!-- ## GestSIS Mobile
 
