@@ -15,7 +15,7 @@ Pour ce faire, à droite de la fenêtre se trouve la section [!badge option].
 
 ![Options pour publipostage](../images/publipostage-options.jpg)
 
-Lors du clic le bouton [!badge Sélection des sapeurs], la fenêtre de sélection va s'ouvrir permettant de choisir les sapeurs voulus.
+Lors du clic sur le bouton [!badge Sélection des sapeurs], la fenêtre de sélection va s'ouvrir permettant de choisir les sapeurs voulus.
 
 [!ref icon="rocket" text="Fenêtre de sélection"](../outils/fenetre-selection.md)
 

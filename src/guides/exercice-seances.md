@@ -22,6 +22,11 @@ Le bouton permettant de valider un événement se trouve en fin de ligne.
 Pour pouvoir valider un exercice, il est nécessaire au préalable que chaque sapeur convoqué soit marqué comme `Présent`, `Absent` ou `Remplacé`.
 !!!
 
+## Annulation
+
+Il est possible d'annuler un exercice ou séance avec le bouton annuler.
+L'exercice ne pourra ainsi plus être modifié et n'apparaitra pas dans la compatbilité.
+
 ## Traitement des absences
 
 Une interface permet de faciliter le traitement des absences en fin d'année.
