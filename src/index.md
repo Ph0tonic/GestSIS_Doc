@@ -10,7 +10,7 @@ Bienvenue dans la documentation officielle de GestSIS. Celle-ci est encore en co
 ## Pour commencer
 
 !!! Créer un compte
-C'est par [ICI](https://app.gestsis.ch/#/register) !
+C'est par <a href="https://app.gestsis.ch/#/register" target="blank">ICI</a> !
 1. Compléter le formulaire en utilisant l'adresse email que vous avez communiqué à votre SIS
 2. Controller votre boîte mail et activer votre compte en cliquer sur le mail que vous avez reçu
 
@@ -21,7 +21,7 @@ Et voilà, c'est tout !
 
 ## Modules 
 
-Pour commencer, cliquez le module qui vous intéresse dans la liste suivante :
+Pour commencer, cliquez sur le module qui vous intéresse dans la liste suivante :
 
 - [Mes infos](guides/mes-infos)
 - [Effectif](guides/effectif)
@@ -30,6 +30,7 @@ Pour commencer, cliquez le module qui vous intéresse dans la liste suivante :
 - [Intervention](guides/intervention)
 - [Fiche de travail](guides/fiche-travail)
 - [Cours](guides/cours)
+- [Organisation](guides/organisation)
 - [Comptabilité](guides/comptabilite)
 - [Publipostage](guides/publipostage)
 - [Statistiques](guides/statistique)
