@@ -12,7 +12,7 @@ Quelques fonctionalités intéressantes sont disponibles.
 ## Mes exercice
 
 !!! S'excuser
-Si vous SIS l'a configuré, il vous est possible de vous excuser directement à travers GestSIS !
+Si votre SIS l'a configuré, il vous est possible de vous excuser directement à travers GestSIS !
 
 Sélectionner l'exercice concerné et pressé sur le bouton [!button size="s" text="S'excuser"]
 !!!
