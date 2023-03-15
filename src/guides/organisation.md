@@ -13,5 +13,7 @@ Une fois en mode édition, il est possible de modifier les informations de chaqu
 
 ## Groupes d'alarme
 
+!!!
 Les groupes d'alarme sont les seules groupes étant transmit au CET.
-Il est nécessaire de donner un numéro à chaque groupe d'alarme afin qu'il puisse est utilisé comme tel.
+Il est nécessaire de donner un numéro à chaque groupe d'alarme afin qu'il puisse être utilisé comme tel.
+!!!
