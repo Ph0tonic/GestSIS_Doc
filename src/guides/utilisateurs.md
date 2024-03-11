@@ -25,6 +25,7 @@ Vous avez la possibilité à travers cette interface de facilement leur envoyer 
 ## Configuration
 
 Voici la liste de toutes les permissions disponibles :
+
 - **Effectif** -> Visualisation de l'effectif
 - **Sapeur lecture** -> Visualisation des données de tous les sapeurs
 - **Sapeur modification** -> Modification des informations sapeurs
@@ -46,11 +47,16 @@ Voici la liste de toutes les permissions disponibles :
 - **Cours lecture** -> Visualisation de la liste des cours
 - **Cours modification** -> Inutilisé pour le moment
 - **Cours config** -> Inutilisé pour le moment
+- **Absence lecture** -> Visualisation de la liste des absences
+- **Absence modification** -> Saisie d'absence pour tout les sapeurs
+- **Absence config** -> Configuration pour le module absence
 - **Mat. perso lecture** -> Visualisation du matériel personnel
 - **Mat. perso modification** -> Saisie et suivi du matériel personnel
 - **Mat. perso config** -> Configuration pour le module matériel personnel
 - **Organisation modification** -> Permet la configuration des différents groupes et donnes accès à l'interface RTA
-- **Comptabilité** -> Toutes les fonctionalités du module comptabilité
+- **Comptabilité lecture** -> Visualisation de la comptabilité
+- **Comptabilité modification** -> Saisie et générations pour le module comptabilité
+- **Comptabilité config** -> Configuration pour le module comptabilité
 - **Config pour comptabilite** -> Configuration pour le module comptabilité
 - **Contrôle médical** -> Saisie et modification des différents contrôles médicaux
 - **Config pour contrôle medical** -> Configuration pour le module contrôles médicaux

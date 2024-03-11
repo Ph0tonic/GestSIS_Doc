@@ -1,6 +1,6 @@
 ---
 order: 40
-icon: mail
+icon: ":email:"
 ---
 
 Le but du module publipostage est de permettre la récupération toutes les données sapeurs nécessaires au publipostage.

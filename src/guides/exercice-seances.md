@@ -1,6 +1,6 @@
 ---
 order: 90
-icon: calendar
+icon: ":calendar:"
 title: Exercices & séances
 ---
 

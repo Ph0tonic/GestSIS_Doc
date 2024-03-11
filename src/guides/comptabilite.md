@@ -1,6 +1,6 @@
 ---
 order: 50
-icon: number
+icon: ":dollar:"
 ---
 
 :warning: En cours de rédaction :warning:

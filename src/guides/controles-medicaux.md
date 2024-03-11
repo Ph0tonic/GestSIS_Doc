@@ -1,6 +1,7 @@
 ---
 order: 20
-icon: heart # pulse
+icon: ":heart:" # pulse
+title: Contrôles médicaux
 ---
 
 Ce module permet d'assurer le suivi des contrôles médicaux notemment porteur.
@@ -18,6 +19,7 @@ Voici les 3 permissions existantes :
 ## Configuration
 
 Sous configurations vous avez la possibilité de configurer les données suivantes :
+
 - Liste des fonctions
 - Liste des grades
 - Liste des cours

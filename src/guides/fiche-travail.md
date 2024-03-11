@@ -1,6 +1,6 @@
 ---
 order: 70
-icon: briefcase
+icon: ":briefcase:"
 ---
 
 L'idée de ce module est de simplifier la saisie des travaux effectué hors exercices et séances planifiées.

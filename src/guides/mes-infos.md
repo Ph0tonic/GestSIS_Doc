@@ -17,7 +17,7 @@ Si votre SIS l'a configuré, il vous est possible de vous excuser directement à
 Sélectionner l'exercice concerné et pressé sur le bouton [!button size="s" text="S'excuser"]
 !!!
 
-!!! Fichier i-calendrier
+!!! Fichier e-calendrier
 Vous pouvez télécharger un fichier i-calendrier contenant l'ensemble de vos exercices afin de l'ajouter à votre agenda.
 !!!
 
@@ -29,4 +29,12 @@ Vous pouvez cliquer sur le bouton logo `pdf` en bout ligne afin de télécharger
 
 !!! Attestation de salaire
 Votre attestation de salaire est également disponible à l'aide du bouton [!button text="Certificat de salaire" size="s"]
+!!!
+
+## Mes absences
+
+!!! Annoncer une absences
+Vous pouvez cliquer sur le bouton [!button text="Saisir une absence" size="s"] pour communiquer une absence, tels que des vacances, un service militaire, ...
+
+:warning: Ceci ne vous excuse pas aux exercices, vous devrez également vous excuser à chaque exercice durant cette période ! :warning:
 !!!

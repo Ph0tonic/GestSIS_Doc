@@ -1,6 +1,6 @@
 ---
 order: 95
-icon: accessibility
+icon: ":firefighter:"
 ---
 
 # Sapeur
@@ -42,6 +42,7 @@ Voici les 3 permissions existantes :
 ## Configuration
 
 Sous configurations vous avez la possibilité de configurer les données suivantes :
+
 - Liste des fonctions
 - Liste des grades
 - Liste des cours

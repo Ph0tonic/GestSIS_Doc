@@ -1,6 +1,6 @@
 ---
 order: 80
-icon: flame
+icon: ":fire:"
 ---
 
 Le module `Intervention` a comme but principal la rédaction des rapports d'intervention.
@@ -16,6 +16,7 @@ Le bouton permettant de valider un événement se trouve en fin de ligne.
 
 Il est possible de générer les rapports d'intervention au format pdf depuis la page `interventions` et de choisir le contenu de celui-ci.
 Voici les différentes options disponibles :
+
 - [ ] Informations générales
 - [ ] Description de l'intervention
 - [ ] Groupes alarmés
@@ -26,7 +27,7 @@ Voici les différentes options disponibles :
 - [ ] Indication du traitement du rapport
 - [ ] Missions de l'intervention
 - [ ] Appels durant l'intervention
-- [ ] Informations financières (montant) *Si imputé*
+- [ ] Informations financières (montant) _Si imputé_
 
 ## Saisie des présences et phases d'intervention
 

@@ -1,6 +1,6 @@
 ---
 order: 0
-icon: comment
+icon: ":rotating_light:"
 ---
 
 Ce module a pour but de faciliter le transfert des données permettant l'engagement des sapeurs avec le CET (central d'engagement et de télécommunications).
@@ -8,6 +8,7 @@ Ce module a pour but de faciliter le transfert des données permettant l'engagem
 Pour ce faire, GestSIS est capable de détecter les changements entre les données actuellement saisies dans GestSIS et la dernière version des données communiquées.
 
 Ce module se compose de trois onglets :
+
 1. Mutations, visualisation des changements et transfert vers le CET
 2. GestSIS, visualisations des données effectives dans GestSIS
 3. Référence, visualistions des données officiellement transmisent au CET

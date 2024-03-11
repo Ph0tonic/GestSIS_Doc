@@ -1,6 +1,6 @@
 ---
 order: 30
-icon: tools
+icon: ":wrench:"
 ---
 
 :warning: En cours de rédaction :warning:
