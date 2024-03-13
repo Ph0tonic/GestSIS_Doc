@@ -14,7 +14,7 @@ Quelques fonctionalités intéressantes sont disponibles.
 !!! S'excuser
 Si votre SIS l'a configuré, il vous est possible de vous excuser directement à travers GestSIS !
 
-Sélectionner l'exercice concerné et pressé sur le bouton [!button size="s" text="S'excuser"]
+Sélectionnez l'exercice concerné et pressez sur le bouton [!button size="s" text="S'excuser"]
 !!!
 
 !!! Fichier e-calendrier
