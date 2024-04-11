@@ -37,7 +37,7 @@ Pour commencer, cliquez sur le module qui vous intéresse dans la liste suivante
 - [Statistiques](guides/statistique)
 - [Matériel personnel](guides/materiel-personnel)
 - [Contrôles médicaux](guides/controles-medicaux)
-- [Utilisateurs](guides/utilisateurs)
+- [Utilisateurs](guides/utilisateur)
 - [RTA](guides/rta)
 
 <!--
