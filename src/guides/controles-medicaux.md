@@ -20,13 +20,12 @@ Voici les 3 permissions existantes :
 
 Sous configurations vous avez la possibilité de configurer les données suivantes :
 
-- Liste des fonctions
-- Liste des grades
-- Liste des cours
+- Liste des contrôles médicaux types
+- Liste des médecins
 
 ### Contrôles médicaux types
 
-Il est possible de configurer la durée de base de chaque contrôle médicaux.
+Il est possible de configurer la durée de base de chaque contrôle médical type.
 Actuellement, une seule valeur est configurable même si celle-ci évolue avec l'âge.
 Il est cependant possible d'ajouter dans le champ remarque les valeurs particulières.
 Celles-ci seront visible lors de la modification ou la saisie d'un contrôle.
