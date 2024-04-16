@@ -15,16 +15,17 @@ De nombreuses statistiques sont disponible notemment concernant les temps d'inte
 - Nb sapeurs
 - Stats civilité, fonctions, grades, permis
 
-### Exercices
+### Exercices et séances
 
 - Stat générale par catégorie
-- Présences et absences par sapeur
+- Présences et absences aux exercices des sapeur
 
 ### Intervention
 
 - Stat général pour traitement, type d'intervention et statistique fédérale
 - Nb heures par type intervention
 - Véhicules & Matériel
+- Présences aux interventions des sapeurs
 
 ### Comptabilité
 
