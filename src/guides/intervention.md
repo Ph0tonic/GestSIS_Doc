@@ -9,7 +9,7 @@ L'interface principale du module permet la visualisation de l'ensemble des inter
 
 ## Validation
 
-Le principe des 4 yeux est appliqué ainsi, une fois une intervention saisie, une validation est nécessaire afin de pouvoir le facturer dans le module `Comptabilité`.
+Le principe des 4 yeux est appliqué ainsi, une fois une intervention saisie, une validation est nécessaire afin de pouvoir la facturer dans le module `Comptabilité`.
 Le bouton permettant de valider un événement se trouve en fin de ligne.
 
 ## Rapport d'intervention
