@@ -23,7 +23,7 @@ Les différents travaux types disponibles sont à saisir et paramétrer dans `Co
 
 ## Permissions
 
-Voici les 4 permissions existantes :
+Voici les 5 permissions existantes :
 
 - Lecture : Visualisation des travaux saisi par l'ensemble des sapeurs
 - Saisie personnelle : Permets la saisie de travaux uniquement pour sa propre personne

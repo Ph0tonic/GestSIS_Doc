@@ -3,17 +3,17 @@ order: 95
 icon: ":firefighter:"
 ---
 
-# Sapeur
-
-:warning: En cours de rédaction :warning:
-
 Ce module permet la gestion de l'ensembles des sapeurs et civiles qui collaborent avec le SIS.
 
 Il existe actuellement deux types de personnes, les [!badge sapeurs] et les [!badge politiques].
 
 !!! Informations
-La [!badge fonction principale], le [!badge grade actuel] et le statut [!badge actif] sont mis à jour automatiquement respectives aux fonctions, promotions et mutations saisies, et ne peuvent être modifié directement.
+La [!badge fonction principale], le [!badge grade actuel] et le statut [!badge actif] sont mis à jour automatiquement afin de reflèter les fonctions, promotions et mutations saisies. Ils ne peuvent ainsi pas être modifié directement.
 !!!
+
+## Téléphones
+
+Seul les numéros de téléphones avec la case `RTA` de coché sont utilisé dans le module RTA. Seul 3 numéros maximum peuvent être saisi par sapeur.
 
 ## Mutations (Démission)
 
