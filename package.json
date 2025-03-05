@@ -9,5 +9,6 @@
   },
   "scripts": {
     "docs:dev": "retype start"
-  }
+  },
+  "packageManager": "yarn@4.7.0"
 }
