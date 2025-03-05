@@ -7,9 +7,9 @@ Ce module permet la gestion de l'ensembles des sapeurs et civiles qui collaboren
 
 Il existe actuellement deux types de personnes, les [!badge sapeurs] et les [!badge politiques].
 
-!!! Informations
+::: info Informations
 La [!badge fonction principale], le [!badge grade actuel] et le statut [!badge actif] sont mis à jour automatiquement afin de reflèter les fonctions, promotions et mutations saisies. Ils ne peuvent ainsi pas être modifié directement.
-!!!
+:::
 
 ## Téléphones
 

@@ -9,14 +9,15 @@ Bienvenue dans la documentation officielle de GestSIS. Celle-ci est encore en co
 
 ## Pour commencer
 
-!!! Créer un compte
+::: tip
+Créer un compte
 C'est par <a href="https://app.gestsis.ch/#/register" target="blank">ICI</a> !
 
 1. Compléter le formulaire en utilisant l'adresse email que vous avez communiqué à votre SIS
 2. Controller votre boîte mail et activer votre compte en cliquant sur le mail que vous avez reçu
 
 Et voilà, c'est tout !
-!!!
+:::
 
 [!ref Découvrez vos possibilités](guides/mes-infos)
 

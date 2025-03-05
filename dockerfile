@@ -1,6 +1,7 @@
-FROM node:20
+FROM node:22
 
 WORKDIR /app
-RUN yarn global add retypeapp
 
-CMD [ "sh" ]
+EXPOSE 8081
+
+CMD [ "bash" ]

@@ -17,17 +17,17 @@ Ce module se compose de trois onglets :
 
 Pour effectuer une mutation et ainsi initier un transfert des données de GestSIS vers le CET, une action manuelle est requise.
 
-!!!
+::: info
 Les identifians demandés correspondent à ceux utilisé sur le site gestionrta-jura.ch.
-!!!
+:::
 
 Il est également de faire une mutation partielle en sélectionnant seulement un certains nombre de sapeurs.
 Par défault toutes les lignes sont sélectionnés via leur case à coché qui se trouve dans la première colonne.
 Pour ne pas communiquer les changements d'un sapeur, il suffit de le décocher et ses informations ne seront pas transmisent.
 
-!!!
+::: info
 Le transfert n'affect pas directement le CET et des actions manuelles étant requisent, un certain délai est nécessaire avant que les modifications transmisent soient effectives.
-!!!
+:::
 
 ## GestSIS
 

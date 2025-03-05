@@ -18,9 +18,9 @@ Chaque sapeur pourra ensuite ajouter une excuse si le sous-module `Excuse` a ét
 Le principe des 4 yeux est appliqué ainsi une fois un événement est saisi, une validation est nécessaire afin de pouvoir le facturer dans le module `Comptabilité`.
 Le bouton permettant de valider un événement se trouve en fin de ligne.
 
-!!!
+::: warning
 Pour pouvoir valider un exercice, il est nécessaire au préalable que chaque sapeur convoqué soit marqué comme `Présent`, `Absent` ou `Remplacé`.
-!!!
+:::
 
 ## Annulation
 

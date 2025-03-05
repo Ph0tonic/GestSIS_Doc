@@ -9,10 +9,10 @@ Il est possible à travers plusieurs modules de GestSIS d'envoyer des SMS.
 
 GestSIS utilise en arrière plan le service ASPSMS. Pour l'utiliser, il est nécessaire de charger des crédits, qui seront débité à chaque envoie.
 
-!!!
+:::  info
 Pour recharger des crédits, vous pouvez vous connecter avec votre compte ASPSMS ici :
 - https://www.aspsms.com/en/login/
-!!!
+:::
 
 Votre compte ASPSMS est configurable dans configuration et vous pourrez également y consulter votre solde.
 
