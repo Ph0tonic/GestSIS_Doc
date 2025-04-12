@@ -9,15 +9,15 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "GestSIS_Doc@workspace:."
   dependencies:
-    retypeapp: "npm:^3.6.0"
+    retypeapp: "npm:^3.7.0"
   languageName: unknown
   linkType: soft
 
-"retypeapp@npm:^3.6.0":
-  version: 3.6.0
-  resolution: "retypeapp@npm:3.6.0"
+"retypeapp@npm:^3.7.0":
+  version: 3.7.0
+  resolution: "retypeapp@npm:3.7.0"
   bin:
     retype: retype.js
-  checksum: 10c0/d138d017a15411f3f80f8938857f515f2de2143797723e5775b1f567725f402d173eaad768ba9bf7b38f0f7b8bd015c83da2e36cd2e161f8edd7f9255076258c
+  checksum: 10c0/ac3845043cff16b4f9be64fdbb14bac0c3f9efa999fdc1fe56e53d5412d74cb2dcb13ef7f1974103f1047d965cc3194d3615f5481f4319492dda6cfc11dd11f2
   languageName: node
   linkType: hard
