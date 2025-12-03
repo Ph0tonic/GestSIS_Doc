@@ -17,11 +17,7 @@ Ce module se compose de trois onglets :
 
 Pour effectuer une mutation et ainsi initier un transfert des données de GestSIS vers le CET, une action manuelle est requise.
 
-!!!
-Les identifians demandés correspondent à ceux utilisé sur le site gestionrta-jura.ch.
-!!!
-
-Il est également de faire une mutation partielle en sélectionnant seulement un certains nombre de sapeurs.
+Il est également possible de faire une mutation partielle en sélectionnant seulement un certains nombre de sapeurs.
 Par défault toutes les lignes sont sélectionnés via leur case à coché qui se trouve dans la première colonne.
 Pour ne pas communiquer les changements d'un sapeur, il suffit de le décocher et ses informations ne seront pas transmisent.
 
@@ -36,6 +32,3 @@ Cet onglet affiche toutes les données actuellement dans GestSIS et potentiellem
 ## Référence
 
 Cet onglet affiche toutes les données officiellement transmisent au CET.
-Il est possible de réinitialiser cette base de données (bouton `Réinitialiser`) ce qui permettera de retransmettre l'intégralité des données lors de la prochaine mutation.
-
-Cette action peut-être utile dans le cas d'une désynchronisation entre les données du CET et celles transmisent par le SIS.
