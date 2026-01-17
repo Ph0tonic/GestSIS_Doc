@@ -25,7 +25,7 @@ jobs:
           echo "$SSH_KEY" > ~/.ssh/staging.key
           chmod 600 ~/.ssh/staging.key
 
-          # Ajouter le host key pour éviter StrictHostKeyChecking no
+          # Ajouter le host key du serveur aux hosts connus
           ssh-keyscan -H $SSH_HOST >> ~/.ssh/known_hosts
 
           cat >>~/.ssh/config <<END
