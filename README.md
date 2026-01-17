@@ -2,7 +2,7 @@
 
 Documentation officielle de **GestSIS** - Plateforme de gestion des Services d'Incendie et de Secours
 
-[![Deploy](https://github.com/your-org/gestsis-doc/workflows/Node.js%20CI/badge.svg)](https://github.com/your-org/gestsis-doc/actions)
+[![Deploy](https://github.com/Ph0tonic/gestsis_doc/workflows/Node.js%20CI/badge.svg)](https://github.com/Ph0tonic/gestsis_doc/actions)
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=.net)](https://dotnet.microsoft.com/)
 [![Retype](https://img.shields.io/badge/Retype-3.11-00D4AA)](https://retype.com/)
 
