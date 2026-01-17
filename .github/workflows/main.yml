@@ -15,7 +15,7 @@ jobs:
 
       - uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: 7.0.x
+          dotnet-version: 8.0.x
 
       - uses: retypeapp/action-build@latest
 
@@ -37,4 +37,5 @@ jobs:
           SSH_HOST: ${{ secrets.STAGING_SSH_HOST }}
 
       - name: Deploy build
-        run: rsync -rtz -essh $RETYPE_OUTPUT_PATH/ staging:doc.gestsis.ch
+        run: rsync -rtz --delete --timeout 30 -e ssh $RETYPE_OUTPUT_PATH/ staging:doc.gestsis.ch
+        continue-on-error: false
