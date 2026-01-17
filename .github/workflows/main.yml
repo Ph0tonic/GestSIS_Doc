@@ -33,7 +33,7 @@ jobs:
             HostName $SSH_HOST
             User $SSH_USER
             IdentityFile ~/.ssh/staging.key
-            StrictHostKeyChecking no
+            StrictHostKeyChecking yes
             UserKnownHostsFile ~/.ssh/known_hosts
           END
         env:
@@ -42,5 +42,5 @@ jobs:
           SSH_HOST: ${{ secrets.STAGING_SSH_HOST }}
 
       - name: Deploy build
-        run: rsync -rtz --delete --timeout 30 -e ssh $RETYPE_OUTPUT_PATH/ staging:doc.gestsis.ch
+        run: rsync -az --delete --timeout 30 -e ssh $RETYPE_OUTPUT_PATH/ staging:doc.gestsis.ch
         continue-on-error: false
