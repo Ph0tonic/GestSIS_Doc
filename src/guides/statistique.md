@@ -8,25 +8,41 @@ Celles-ci sont organisées par module avec un onglet pour chaque module.
 
 De nombreuses statistiques sont disponible notemment concernant les temps d'intervention par type d'intervention requises par les autorités.
 
-## Informations actuellement disponibles
+## Onglets disponibles
 
-### Sapeurs
+### Résumé
 
-- Nb sapeurs
-- Stats civilité, fonctions, grades, permis
+Vue d'ensemble des statistiques disponibles par module.
 
-### Exercices et séances
+### Sapeur
 
-- Stat générale par catégorie
-- Présences et absences aux exercices des sapeur
+- Répartition par civilité
+- Répartition par fonction
+- Répartition par grade
+- Répartition par localité
+- Répartition par permis
+
+### Exercice
+
+- Nombre d'exercices et durée totale par catégorie
+
+### Présences exercices
+
+- Présences et absences de chaque sapeur aux exercices
 
 ### Intervention
 
-- Stat général pour traitement, type d'intervention et statistique fédérale
-- Nb heures par type intervention
-- Véhicules & Matériel
-- Présences aux interventions des sapeurs
+- Nombre d'interventions et heures par **type**, **statistique fédérale** ou **traitement** (sélectionnable)
+- Répartition par localité
+- Utilisation des véhicules
+- Utilisation du matériel
+
+### Présences interventions
+
+- Présences de chaque sapeur aux interventions
 
 ### Comptabilité
 
-- Stat catégorie/module comptable, compte
+- Nombre d'écritures et total par **module** comptable
+- Nombre d'écritures et total par **catégorie** comptable
+- Nombre d'écritures et total par **compte**
