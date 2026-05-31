@@ -18,6 +18,8 @@ jobs:
           dotnet-version: 8.0.x
 
       - uses: retypeapp/action-build@latest
+        with:
+          override: '{"url": "https://doc.gestsis.ch"}'
 
       - name: Configure SSH
         run: |
