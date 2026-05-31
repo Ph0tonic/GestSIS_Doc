@@ -47,24 +47,24 @@ Voici la liste de toutes les permissions disponibles :
 - **Cours lecture** -> Visualisation de la liste des cours
 - **Cours modification** -> Inutilisé pour le moment
 - **Cours config** -> Inutilisé pour le moment
-- **Absence lecture** -> Visualisation de la liste des absences
-- **Absence modification** -> Saisie d'absence pour tout les sapeurs
-- **Absence config** -> Configuration pour le module absence
-- **Mat. perso lecture** -> Visualisation du matériel personnel
-- **Mat. perso modification** -> Saisie et suivi du matériel personnel
-- **Mat. perso config** -> Configuration pour le module matériel personnel
-- **Organisation modification** -> Permet la configuration des différents groupes et donnes accès à l'interface RTA
+- **Matériel lecture** -> Visualisation du matériel personnel
+- **Matériel modification** -> Saisie et suivi du matériel personnel
+- **Matériel config** -> Configuration pour le module matériel personnel
+- **Organisation modification** -> Permet la configuration des différents groupes et donne accès à l'interface RTA
+- **Absences lecture** -> Visualisation de la liste des absences
+- **Absences modification** -> Saisie d'absence pour tous les sapeurs
+- **Absences config** -> Configuration pour le module absence
 - **Comptabilité lecture** -> Visualisation de la comptabilité
 - **Comptabilité modification** -> Saisie et générations pour le module comptabilité
-- **Comptabilité config** -> Configuration pour le module comptabilité
 - **Config pour comptabilite** -> Configuration pour le module comptabilité
 - **Contrôle médical** -> Saisie et modification des différents contrôles médicaux
 - **Config pour contrôle medical** -> Configuration pour le module contrôles médicaux
-- **SMS envoie** -> Permet l'envoie de SMS quand disponible
-- **SMS config** -> Configuration du compte aspsms
 - **Utilisateur** -> Pour la gestion des utilisateurs et de leurs rôles
 - **Config pour utilisateur** -> Configuration des différents rôles
 - **Config générale** -> Configuration des informations générales du SIS
+- **SMS envoie** -> Permet l'envoi de SMS quand disponible
+- **SMS config** -> Configuration du compte aspsms
+- **RTA lecture** -> Accès aux informations RTA
+- **RTA modification** -> Envoi de modifications au RTA
+- **RTA config** -> Configuration du RTA
 - **Admin** -> Inutilisé pour le moment
-
-<!-- **TODO: Lister et expliquer l'ensemble des permissions -->
